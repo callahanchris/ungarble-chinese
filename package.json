@@ -1,0 +1,27 @@
+{
+  "name": "ungarble-chinese",
+  "version": "0.1.0",
+  "description": "ungarble chinese text files",
+  "main": "index.js",
+  "bin": "./bin/cmd.js",
+  "dependencies": {
+    "iconv-lite": "^0.4.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callahanchris/ungarble-chinese.git"
+  },
+  "keywords": [
+    "garbled",
+    "ungarble",
+    "chinese",
+    "中文",
+    "encoding"
+  ],
+  "author": "Chris Callahan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/callahanchris/ungarble-chinese/issues"
+  },
+  "homepage": "https://github.com/callahanchris/ungarble-chinese#readme"
+}
